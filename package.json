@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-broadcast-android",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Provides API for broadcasting in android",
   "main": "src/index.tsx",
   "types": "src/index.tsx",
